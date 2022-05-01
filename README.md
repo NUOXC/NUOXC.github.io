@@ -1,5 +1,3 @@
-# NUOXC.github.io
-
 <!DOCTYPE html>
 <html>
 
