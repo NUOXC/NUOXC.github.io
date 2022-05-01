@@ -5,14 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <script src="./plugins/jquery-3.3.1.min.js"></script>
-    <script src="generator.js"></script>
-    <script src="data.js"></script>
+    <script src="https://reed-overflow.github.io/Random-waifu-generater/plugins/jquery-3.3.1.min.js"></script>
+    <script src="https://reed-overflow.github.io/Random-waifu-generater/generator.js"></script>
+    <script src="https://reed-overflow.github.io/Random-waifu-generater/data.js"></script>
     <title>老婆生成器Random waifu generator</title>
 
     <!-- 优化一下移动端展示效果 -->
     <!-- https://www.bootstrapcdn.com/ -->
-    <link rel="stylesheet" href="plugins/bootstrap/4.1.3/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://reed-overflow.github.io/Random-waifu-generater/plugins/bootstrap/4.1.3/css/bootstrap.min.css" />
 
 </head>
 
